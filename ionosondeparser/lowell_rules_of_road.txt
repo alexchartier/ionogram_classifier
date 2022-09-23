@@ -1,0 +1,63 @@
+Release date: September 11, 2013
+
+Last updated: January 14, 2021
+
+Summary
+Please read carefully.
+
+LGDC data collections are released to public under CC BY-NC-SA 4.0 license restrictions. It is an open dataset that can be freely used, re-used, and redistributed, as long as:
+
+(NC): Data are not used or shared for commercial purpose (Rule 1 below)
+(BY): Data provider is involved and/or acknowledged in publications (Rules 2 and 3)
+(SA): Shared, modified, or annotated data retain their original license (Rule 4)
+(--): Development of substantially derivative products based on the acquired GIRO data is not restricted (Rule 5).
+Manually edited data with corrected errors of processing or automatic interpretation are considered modified, rather than derived product.
+Preamble
+Heavy investments of time, effort, expertise, and funds continue to be made to produce, collect, quality control, interpret, and archive ionosonde data. It is therefore important that the data providers and LGDC are appropriately acknowledged in scientific publications that include analysis of data obtained from LGDC servers.  
+
+Roles and Responsibilities
+Lowell GIRO Data Center (LGDC) is a Data Sharing Infrastructure. Data providers contribute the ionogram and drift data to LGDC and in return gain free access to data from all the other GIRO participants.
+LGDC data records are owned by the original data providers (i.e., observatories that operate the instruments).
+On behalf of the data owners, LGDC takes responsibility for
+Quality control of submitted records,
+Cataloging data for queries,
+Data safeguarding and long-term preservation,
+Promotion of data to other users,
+Monitoring of secondary data usage,
+Enforcement of data acknowledgements, and
+Persistent identification for consistent data citation.
+To facilitate convenient access and use of LGDC data collections, LDGC takes responsibility for
+Software development for online exploration and processing of DIDBase and DriftBase records,
+Software development for derivation of secondary data products and displays like ARTIST, DDA, DirectogramMaker, Skymap, Tilt, etc.,
+Data model and format development for standardized access,
+Development and installation of LGDC mirror servers, and
+Management and optimization of databases and web portals.
+LGDC Account
+To register for read-only Lowell DIDBase or DriftBase accounts, send request to Prof. Bodo Reinisch, Bodo_Reinisch@uml.edu.
+
+A username and password will be issued by the LGDC Account Maintenance team for SAO Explorer connection to Lowell DIDBase and Drift Explorer connection to Lowell DriftBase. The read-only account can be shared within the organization that applied for access.
+
+Rules of the Road
+The GIRO concept of data access has always been "free data to scientists" without regard to institutional, geographic, and national borders.
+This is an open dataset that can be freely used, re-used, and redistributed under CC BY-NC-SA 4.0 license as long as the following rules are followed:
+
+(NC): Free online access to acquired data is arranged only for educational and non-commercial (NC) research purposes.
+(BY): Data users are strongly encouraged to contact designated persons at the data supplier organization prior to using the data to discuss the intended usage in the light of possible data issues. For contact person information for contributing ionosonde observatories, please refer to the Acknowledgements List and Digisonde Station List.
+(BY): Should a scientific publication evolve from the conducted analysis of data from LGDC or its mirror servers, the authors are requested to:
+Offer the data owners or observatory directors the option of co-authoring publication. Contact person for the station is listed in Acknowledgements List or Digisonde Station List.
+Please enforce Data Provenance in your publications:
+Include citation of the GIRO publication as the data source:
+Reinisch, B. W., and I. A. Galkin, Global ionospheric radio observatory (GIRO), Earth, Planets, and Space, 63, 377-381,  doi:10.5047/eps.2011.03.001, 2011.
+
+Include the following persistent citation of the GIRO data resources in the Acknowledgements section:
+http://spase.info/SMWG/Observatory/GIRO
+
+(SA): Data obtained from the LGDC are to be shared only with users who have an up-to-date LGDC account. Shared, modified, or annotated data retain their original license.
+(ND): The Non-Derivative clause is not enforced. Development of substantially derivative products based on the acquired dataset is not restricted by this license.
+Manual editing of the dataset to eliminate errors of processing or automatic interpretation is considered modified, rather than derived product, still subject to SA rule.
+Sharing Manually Edited Records
+If autoscaled records are edited in the process of analysis, we strongly encourage sharing of the edited data with the DIDBase community.
+
+Edited results can be sent via e-mail or FTP to Lowell for ingestion to DIDBase. Contact Ivan Galkin for details (ivan_galkin@uml.edu).
+A “Scaler Account” can be assigned for frequent scaled data submissions. Registered scalers are granted the privilege of online, on-the-fly submission of edited results from SAO Explorer to DIDBase. These edited results will be archived under your name, and will NOT replace the original autoscaled results or the results from other scalers. Read-only connection to DIDBase does not allow online submissions. For further instruction please apply to Prof. Bodo Reinisch.
+(c) 1995, 2021 Global Ionosphere Radio Observatory: University of Massachusetts Lowell
